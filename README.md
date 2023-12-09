@@ -3,3 +3,5 @@
 - Screen Size 360px x 800 px
 - Just the frontend where, on login, the user is directed to the employee productivity dashboard
 - On click, they are redirected to the Employees' list
+
+- Deployed Link = https://boisterous-malasada-e9abdd.netlify.app/
